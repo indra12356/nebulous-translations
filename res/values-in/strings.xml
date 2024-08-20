@@ -910,7 +910,7 @@
     <string name="Game_Border">Batas Permainan</string>
     <string name="Select_some_text_first">Pilih suatu teks terlebih dahulu.</string>
     <string name="Save_the_profile_first">Simpan profil terlebih dahulu</string>
-    <string name="Birthday">Birthday</string>
+    <string name="Birthday">Ulang tahun</string>
     <string name="Mass_Boost">Mass Boost</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost tidak berfungsi di arena, turnamen, atau klan war!</string>
     <string name="ArenaDescriptionPure">TIDAK BISA menggunakan autoclick atau ultraclick. Kamu hanya dapat satu nyawa. Pemenang akan mendapatkan %s plasma.</string>
@@ -965,7 +965,7 @@
     <string name="ENEMY">MUSUH</string>
     <string name="ALLY">ALIANSI</string>
     <string name="Rename">GANTI NAMA</string>
-    <string name="Set_friendly_name_">Set friendly name.</string>
+    <string name="Set_friendly_name_">Atur nama teman.</string>
     <string name="Leave_blank_for_none_">Leave blank for none.</string>
     <string name="Vote_Kick">Kick Player</string>
     <string name="FONT">JENIS HURUF</string>
@@ -1212,10 +1212,10 @@ Commands:
     <string name="no_response">Tidak bisa bergabung ke server. Mohon check koneksi internet Anda.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2x Skin Resolusi</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">Kamu sekarang sudah berteman.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus lebih dari 1 hari untuk mengirim email.</string>
     <string name="Translator">Translator</string>
 
 
@@ -1249,7 +1249,7 @@ Commands:
         <item>"Mudah"</item>
         <item>"Medium"</item>
         <item>"Susah"</item>
-        <item>"IMPOSSIBLE"</item>
+        <item>"TERSULIT"</item>
     </string-array>
 
     <string-array name="sizes">
@@ -1257,7 +1257,7 @@ Commands:
         <item>"Kecil"</item>
         <item>"Normal"</item>
         <item>"Besar"</item>
-        <item>"HUGE"</item>
+        <item>"TERBESAR"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
